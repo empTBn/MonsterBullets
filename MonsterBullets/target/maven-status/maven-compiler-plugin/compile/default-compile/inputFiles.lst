@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Client\ClientFrame.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Server\ServerFrame.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Server\Server.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Server\ThreadServer.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Juego\Bullet.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Commands\CommandFactory.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Client\ThreadClient.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Commands\ErrorCommand.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Juego\PlayerSet.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Utils\CommandUtils.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Commands\BaseCommand.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Commands\ChatCommand.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\models\Message.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Commands\PrivateChatCommand.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\commandsockets\CommandSockets.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Client\Client.java
+C:\Users\PC\Documents\Uni2023\POO\MonsterBullets\src\main\java\Commands\iCommand.java
